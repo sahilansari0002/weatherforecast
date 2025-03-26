@@ -135,6 +135,9 @@ export function TeamPage() {
                 <a href={member.github} className="text-white hover:text-blue-300 transition-colors">
                   <Github size={20} />
                 </a>
+                <a href={member.Instagram} className="text-white hover:text-blue-300 transition-colors">
+                  <Instagram size={20} />
+                </a>
                 <a href={member.linkedin} className="text-white hover:text-blue-300 transition-colors">
                   <Linkedin size={20} />
                 </a>
