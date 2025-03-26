@@ -7,7 +7,7 @@ const mentor = {
   role: 'Founder & CEO of iBase',
   image: 'https://media-hosting.imagekit.io//1c5c607e901042b1/nakul%20sir.jpeg?Expires=1837583399&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=BE2-rWiCzrQyY08SHyxO794KfA~EjkpI-NiVSVrJd8tHuk14snZIU52cQeKlp3DnQmm4zUgQ8Rc7e7gC4yb~Xf72wu6m5oPsg5IfX3gVkA~ik92pvCYbf-R2IavHp15BlPF3oQdwxT~E8PZI5YvPJeX69OFzNOCq-nxJZ2gVmU6VpyK~h2WjGhJvfpH3l1DEG4SDS-Xt8mWqeyPYfrw15mpILJXMrdUmhsKHd~C0h6Vq029Gwq6JMtSKa4MHd87fHWQYUKa9YRC-nanghoPqPZ7DcaYbc-bGhkzadV74ijLmHmVqOvZzMTOnZJZMxEhmxrSUjpOtg54UtYBTYJZmYw__',
   linkedin: 'https://www.linkedin.com/in/nakul-deshmukh-2540b564/',
-  Instagram: 'nakul@ibase.com'
+  Instagram: 'https://www.instagram.com/ibase_technology_?'
 };
 
 const teamMembers = [
@@ -35,7 +35,7 @@ const teamMembers = [
     name: 'Himanshu Sharma',
     role: 'BCA First Year',
     image: 'https://media-hosting.imagekit.io//8814f42efcca4957/himanshu.jpg?Expires=1837583399&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XAuk1OiSiKZDgu7dLNsgsrV1hDYFZTyq8xuElal1i0DT~OCdGyP3RoVaPgrNWnoUyJIr1JwpR-hDv4JOc65m~G1zv-UadHr~4~kQD3YCI7Hrf6CXfxXK5B4sYbHsL7E2wTNHa7vUoM-h5fYvKJArMNmn65aAxSmTkpL4dTOC2odiWNa2ph-QVX-34EhFXZxz7aiuzu49BukkG21qE7Q83LCZXG61Pimk1sHMwJMb1-ugNjQq3CS0z7R8dTwe6DMzBSnrlD81Incr9a3wtFG6XgcS4V5ehn8TLThdQ8qFlFrKW0CqnwgoEFGG5WcSwETTRvlm5eJJJSqGJpNM0aAovg__',
-    Instagram: 'https://www.instagram.com/himasnshu__563?'
+    Instagram: 'https://www.instagram.com/himanshu___563?'
   }
 ];
 
