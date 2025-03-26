@@ -1,13 +1,13 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Github, Linkedin, Mail, Star } from 'lucide-react';
+import { Github, Linkedin, Instagram, Mail, Star } from 'lucide-react';
 
 const mentor = {
   name: 'Nakul Deshmukh',
   role: 'Founder & CEO of iBase',
   image: 'https://media-hosting.imagekit.io//1c5c607e901042b1/nakul%20sir.jpeg?Expires=1837583399&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=BE2-rWiCzrQyY08SHyxO794KfA~EjkpI-NiVSVrJd8tHuk14snZIU52cQeKlp3DnQmm4zUgQ8Rc7e7gC4yb~Xf72wu6m5oPsg5IfX3gVkA~ik92pvCYbf-R2IavHp15BlPF3oQdwxT~E8PZI5YvPJeX69OFzNOCq-nxJZ2gVmU6VpyK~h2WjGhJvfpH3l1DEG4SDS-Xt8mWqeyPYfrw15mpILJXMrdUmhsKHd~C0h6Vq029Gwq6JMtSKa4MHd87fHWQYUKa9YRC-nanghoPqPZ7DcaYbc-bGhkzadV74ijLmHmVqOvZzMTOnZJZMxEhmxrSUjpOtg54UtYBTYJZmYw__',
   linkedin: 'https://www.linkedin.com/in/nakul-deshmukh-2540b564/',
-  email: 'nakul@ibase.com'
+  Instagram: 'nakul@ibase.com'
 };
 
 const teamMembers = [
@@ -15,7 +15,7 @@ const teamMembers = [
     name: 'Sahil Ali',
     role: 'BCA Final Year',
     image: 'https://media-hosting.imagekit.io//361b258c504743a4/sahil%20google.jpg?Expires=1835432378&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=g272EbZK9wQMbotJUeL-f3kxZdEm4MTyzLZwYr1e4eayFjS6M7EK3cGkrbPtWLKrjpUsEfK5TWirD288U-e4Hu0NKIYageYEQIVYqJz70LDoOGlitP6SNHXIFOmZykXisL4vPLk7JoeesSvzyfWiT-TG0pV87wFdrr4mGpSJUEG0rUA9z~-xJTsU59FnEiRFA8o4eXePc~8XaERW3tpclc2lZxGZbbGs3vKNSkoSe~Wj4b~dxz8~sBU5t80cVI7y5aymhMwwgkwTDxi7Iy1K3puIYR-Gh-~sWM2yqAisxYMYhMX5eOJlFNP3jCfyU8h11R0d2i0RshyY3jPdHh1DOA__',
-    github: '#',
+    Instagram: 'https://www.instagram.com/sahilansari0002?',
     linkedin: 'https://www.linkedin.com/in/sahilansari0002/',
     email: 'Sahilali57254@gmail.com'
   },
@@ -23,25 +23,19 @@ const teamMembers = [
     name: 'Mujtaba Farooque',
     role: 'BCA Final Year',
     image: 'https://media-hosting.imagekit.io//f38d6297a8844888/muj.jpg?Expires=1837585374&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=r0YUPwDOzSBus83-~-LSnMMpWfRkjlm21vrgj1uioPgjIiuu5qZ0SaGgRvPJCnnApUxW8rX9O0q1OTfiW4muO6grbdKlq-bv0zIjRBYIRwZ08~VhMTt81zxmO8T8kU0ETfAIN0FImRENJ3aPGOl68j7QDsxey140oRt1U0TMQeB2mx-Whsm2dYvog2M5ZjSAF2hpusiaUCserpuK~9p-ly8rz6hizJvzXrkmU1G4ZA5dEi~CcJJnUOvgAwTTsKEwyHJxhQsRalDEXEoc4ICxow2CnbiMnsQVxqMn9lEQuBu-zu7ck6YKj8IkxO6cj6GqAOHQS13cWeJCNztfEVQCyw__',
-    github: '#',
-    linkedin: '#',
-    email: 'member2@example.com'
+    Instagram: 'https://www.instagram.com/mujtaba__7788?'
   },
   {
     name: 'Krushna hiralkar ',
     role: 'BCA First Year',
     image: 'https://media-hosting.imagekit.io//af686fb225384695/Krishna.jpg.webp?Expires=1837583399&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=oMtbRooFfNu3q0k1F6fehpLKb16kkkc8yYdkpcHiDmp0XqgYJiZ0dW~YoGzFIlQXzrR0Abain5K5R1S5Ybh-3zy0MQ9VVpLhnYewDSKlraR07Wcz7ms45SmSdOXQoQ~4H4gtBwnvOf9b7D~lpNA-3uMuj9ddC0qaOyvFkdawbejNS-UjF5wzZp4UvB3tkXuPVgSAK7NtcQqwz8F2Girre1e~fqy2VGE8wF3vrTLrJ6PkFhkUubyOxJ3W3FhIo0bFpdPkkSnXCDav0cvPZ5dg9NqG7czYCmaZEGOx5mxs4B2gZlXuKUofHOiUm-hj7KdAPraYw6tqONZSVgC1hnFd5A__',
-    github: '#',
-    linkedin: '#',
-    email: 'member3@example.com'
+    Instagram: 'https://www.instagram.com/krishn_hiralkar_?'
   },
   {
     name: 'Himanshu Sharma',
     role: 'BCA First Year',
     image: 'https://media-hosting.imagekit.io//8814f42efcca4957/himanshu.jpg?Expires=1837583399&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XAuk1OiSiKZDgu7dLNsgsrV1hDYFZTyq8xuElal1i0DT~OCdGyP3RoVaPgrNWnoUyJIr1JwpR-hDv4JOc65m~G1zv-UadHr~4~kQD3YCI7Hrf6CXfxXK5B4sYbHsL7E2wTNHa7vUoM-h5fYvKJArMNmn65aAxSmTkpL4dTOC2odiWNa2ph-QVX-34EhFXZxz7aiuzu49BukkG21qE7Q83LCZXG61Pimk1sHMwJMb1-ugNjQq3CS0z7R8dTwe6DMzBSnrlD81Incr9a3wtFG6XgcS4V5ehn8TLThdQ8qFlFrKW0CqnwgoEFGG5WcSwETTRvlm5eJJJSqGJpNM0aAovg__',
-    github: '#',
-    linkedin: '#',
-    email: 'member4@example.com'
+    Instagram: 'https://www.instagram.com/himasnshu__563?'
   }
 ];
 
